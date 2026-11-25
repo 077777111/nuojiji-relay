@@ -29,3 +29,5 @@ class_name = "WechatBridge"
 [[migrations]]
 tag = "wechat-v1"
 new_sqlite_classes = ["WechatBridge"]
+[vars]
+RELAY_SECRET = "Charlie07724"
